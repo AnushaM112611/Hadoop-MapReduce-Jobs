@@ -1,0 +1,24 @@
+1,Batman,Drama
+2,Revenant,Thriller
+3,Lord of the Rings,Sci-Fi
+4,Fighter,Thriller
+5,Life of Pi,Drama
+6,Naanaku,Sentiment
+7,Hitman,Drama
+8,All in the game,Thriller
+9,Lord of the Rings-II,Sci-Fi
+10,Game of Thrones,Thriller
+11,Friends,Comedy
+12,Prematho,Sentiment
+13,Batman2,Drama
+14,Back to the Future,Thriller
+15,Lord of the Rings-iii,Drama
+16,Geeky,Thriller
+17,Grand Master,Drama
+18,HP,Sentiment
+19,Gilli,Drama
+20,Nevada,Thriller
+21,Las Vegas,Sci-Fi
+22,Log Angeles,Thriller
+23,Do or Die,Drama
+24,Money Ball,Sentiment
