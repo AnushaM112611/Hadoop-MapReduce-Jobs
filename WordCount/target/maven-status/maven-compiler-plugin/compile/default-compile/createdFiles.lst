@@ -1,0 +1,3 @@
+com\cloudwick\hadoop\mapreduce\wordcount\WordMapper.class
+com\cloudwick\hadoop\mapreduce\wordcount\SumReducer.class
+com\cloudwick\hadoop\mapreduce\wordcount\WordCount.class
