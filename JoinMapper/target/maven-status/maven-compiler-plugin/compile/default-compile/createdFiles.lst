@@ -1,0 +1,4 @@
+com\cloudwick\hadoop\join\Join.class
+com\cloudwick\hadoop\join\JoinMapper.class
+com\cloudwick\hadoop\join\JoinMapper2.class
+com\cloudwick\hadoop\join\JoinReducer.class
